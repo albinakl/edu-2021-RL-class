@@ -1,4 +1,4 @@
-# edu-2021-RL
+# Reinforcement learning 2021
 
 Learning materials for **Reinforcement learning 2021** by AIDA Lab.
 
