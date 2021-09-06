@@ -6,7 +6,7 @@ Learning materials for **Reinforcement learning 2021** by AIDA Lab.
 
 | Video | Slides | 
 | ----- | ------ | 
-| [lec-1. Link to appear]() | [Slides. Link to appear]() | 
+| [lec-1. Link to appear]() | [Slides](./lectures/lec-1/RL2021-lec1-slides-ann.pdf) | 
 
 ## Seminars 
 
