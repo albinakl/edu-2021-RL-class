@@ -14,7 +14,7 @@ Lecture | Title | Video | Slides |
 
 Seminar | Topic | Tasks | Materials (if applicable) | 
 | ----- | ------ | ----- | ------ | 
-| Seminar 1 | Basics, environments | [Link](./seminars/sem1-1/RL2021-sem11-tasks) |  | 
+| Seminar 1 | Basics, environments | [Link](./seminars/sem1-1/RL2021-sem11-tasks.png) |  | 
 
 ## Assignments
 
