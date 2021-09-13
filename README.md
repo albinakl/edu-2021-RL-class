@@ -12,7 +12,7 @@ Lecture | Title | Video | Slides |
 
 ## Seminars 
 
-Seminar | Topic | Tasks | Materials (optional) | 
+Seminar | Topic | Tasks | Materials | 
 | ----- | ------ | ----- | ------ | 
 | Seminar 1 | Basics, environments | [Link](./seminars/sem-1/RL2021-sem1-tasks.PNG) |  | 
 | Seminar 2 | Dynamic programming | [Link](./seminars/sem-2/RL2021-sem2-tasks.jpg) |  |
