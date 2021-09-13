@@ -14,7 +14,7 @@ Lecture | Title | Video | Slides |
 
 Seminar | Topic | Tasks | Materials | 
 | ----- | ------ | ----- | ------ | 
-| Seminar 1 | Basics, environments | [Link](./seminars/sem-1/RL2021-sem1-tasks.PNG) |  | 
+| Seminar 1 | Basics, environments | [Link](./seminars/sem-1/RL2021-sem1-tasks.PNG) | [Link](./seminars/sem-1) | 
 | Seminar 2 | Dynamic programming | [Link](./seminars/sem-2/RL2021-sem2-tasks.jpg) |  |
 | Seminar 3 | Policy gradient | [Link](./seminars/sem-3/RL2021-sem3-tasks.PNG) |  |
 
