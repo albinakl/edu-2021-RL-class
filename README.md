@@ -10,6 +10,7 @@ Lecture | Title | Video | Slides |
 |Lecture 2 | Dynamic programming |[Link](https://www.youtube.com/watch?v=2-AMgzLUKS0&ab_channel=AIindynamicaction) | [Link](./lectures/lec-2/RL2021-lec2-slides-ann.pdf) | 
 |Lecture 3 | Policy gradient |[Link](https://www.youtube.com/watch?v=PByiTLDcF0g&ab_channel=AIindynamicaction) | [Link](./lectures/lec-3/RL2021-lec3-slides-ann.pdf) | 
 |Lecture 4 | Actor-critic |[Link](https://youtu.be/_1V46_nZJII) | [Link](./lectures/lec-4/RL2021-lec4-slides-ann.pdf) | 
+|Lecture 5 | Convergence I |[Link](https://youtu.be/MVJpUO9H5Y4) | [Link](./lectures/lec-5/RL2021-lec5-slides-ann.pdf) | 
 
 
 ## Seminars 
@@ -19,7 +20,8 @@ Seminar | Topic | Tasks | Materials | Video |
 | Seminar 1 | Basics, environments | [Link](./seminars/sem-1/RL2021-sem1-tasks.PNG) | [Link](./seminars/sem-1) |[Link](https://www.youtube.com/watch?v=wMuaTgpwYCc&ab_channel=AIindynamicaction) |
 | Seminar 2 | Dynamic programming | [Link](./seminars/sem-2/RL2021-sem2-tasks.jpg) | [Link](./seminars/sem-2)  |[Link](https://youtu.be/fPeKLsOCGbQ) |
 | Seminar 3 | Policy gradient | [Link](./seminars/sem-3/RL2021-sem3-tasks.PNG) |  | |  |
-| Seminar 3 | Actor-critic | [Link](./seminars/sem-4/RL2021-sem4-tasks.PNG) |  | |  |
+| Seminar 4 | Actor-critic | [Link](./seminars/sem-4/RL2021-sem4-tasks.PNG) |  | |  |
+| Seminar 5 | Convergence I | [Link](./seminars/sem-5/RL2021-sem5-tasks.PNG) |  | |  |
 ## Assignments
 
 Assignment | Description | Roll-out | Due | 
