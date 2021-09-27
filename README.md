@@ -12,7 +12,7 @@ Lecture | Title | Video | Slides |
 |Lecture 4 | Actor-critic |[Link](https://youtu.be/_1V46_nZJII) | [Link](./lectures/lec-4/RL2021-lec4-slides-ann.pdf) | 
 |Lecture 5 | Convergence I |[Link](https://youtu.be/MVJpUO9H5Y4) | [Link](./lectures/lec-5/RL2021-lec5-slides-ann.pdf) | 
 |Lecture 6 | Convergence II |[Link](https://youtu.be/_3nsQf_4JAQ ) | [Link](./lectures/lec-6/RL2021-lec6-slides-ann.pdf) | 
-
+|Lecture 7 | Deep RL |[Link](https://youtu.be/9MKfDKGsxUc ) | [Link](./lectures/lec-6/RL2021-lec6-slides-ann.pdf) | 
 
 ## Seminars 
 
