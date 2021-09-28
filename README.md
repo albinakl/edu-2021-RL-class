@@ -22,7 +22,7 @@ Seminar | Topic | Tasks | Materials | Video |
 | Seminar 2 | Dynamic programming | [Link](./seminars/sem-2/RL2021-sem2-tasks.jpg) | [Link](./seminars/sem-2)  |[Link](https://youtu.be/fPeKLsOCGbQ) |
 | Seminar 3 | Policy gradient | [Link](./seminars/sem-3/RL2021-sem3-tasks.PNG) |[Link](./seminars/sem-3)  |[Link](https://youtu.be/PB4cJo1FzXQ) |  
 | Seminar 4 | Actor-critic | [Link](./seminars/sem-4/RL2021-sem4-tasks.PNG) | [Link](./seminars/sem-4)  |[Link](https://youtu.be/I2MaQn4bTFY)  |  
-| Seminar 5 | Convergence I | [Link](./seminars/sem-5/RL2021-sem5-tasks.PNG) |  | | |
+| Seminar 5 | Convergence I | [Link](./seminars/sem-5/RL2021-sem5-tasks.PNG) | [Link](./seminars/sem-5) |[Link](https://youtu.be/bA8vHbqqzvc)| 
 | Seminar 6 | Convergence II | [Link](./seminars/sem-6/RL2021-sem6-tasks.jpg) |  | | |
 | Seminar 7 | Deep RL | [Link](./seminars/sem-7/RL2021-sem7-tasks.jpg) |  | | |
 
