@@ -31,7 +31,7 @@ Seminar | Topic | Tasks | Materials | Video |
 Assignment | Description | Roll-out | Due | 
 | ----- | ------ | ----- | ------ | 
 | Assignment 1 | Dynamic programming | 21.09.2021 | 28.09.2021 | 
-| Assignment 2 | Policy gradient | 28.09.2021 | 05.10.2021 | 
+| Assignment 2 | Policy gradient | 30.09.2021 | 07.10.2021 | 
 | Assignment 3 | Actor-critic | 05.10.2021 | 12.10.2021 |
 | Assignment 4 | Deep actor-critic | 12.10.2021 | 19.10.2021 |
 | Final project | Topic of choice (needs approval) | Free to start | Presentation at last two slots |
