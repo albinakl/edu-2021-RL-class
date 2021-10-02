@@ -22,7 +22,7 @@ Seminar | Topic | Tasks | Materials | Video |
 | Seminar 2 | Dynamic programming | [Link](./seminars/sem-2/RL2021-sem2-tasks.jpg) | [Link](./seminars/sem-2)  |[Link](https://youtu.be/fPeKLsOCGbQ) |
 | Seminar 3 | Policy gradient | [Link](./seminars/sem-3/RL2021-sem3-tasks.PNG) |[Link](./seminars/sem-3)  |[Link](https://youtu.be/PB4cJo1FzXQ) |  
 | Seminar 4 | Actor-critic | [Link](./seminars/sem-4/RL2021-sem4-tasks.PNG) | [Link](./seminars/sem-4)  |[Link](https://youtu.be/I2MaQn4bTFY)  |  
-| Seminar 5 | Convergence I | [Link](./seminars/sem-5/RL2021-sem5-tasks.PNG) |  | | |
+| Seminar 5 | Convergence I | [Link](./seminars/sem-5/RL2021-sem5-tasks.PNG) | [Link](./seminars/sem-5) |[Link](https://youtu.be/bA8vHbqqzvc)| 
 | Seminar 6 | Convergence II | [Link](./seminars/sem-6/RL2021-sem6-tasks.jpg) |  | | |
 | Seminar 7 | Deep RL | [Link](./seminars/sem-7/RL2021-sem7-tasks.jpg) |  | | |
 
@@ -31,7 +31,7 @@ Seminar | Topic | Tasks | Materials | Video |
 Assignment | Description | Roll-out | Due | 
 | ----- | ------ | ----- | ------ | 
 | Assignment 1 | Dynamic programming | 21.09.2021 | 28.09.2021 | 
-| Assignment 2 | Policy gradient | 28.09.2021 | 05.10.2021 | 
+| Assignment 2 | Policy gradient | 30.09.2021 | 07.10.2021 | 
 | Assignment 3 | Actor-critic | 05.10.2021 | 12.10.2021 |
 | Assignment 4 | Deep actor-critic | 12.10.2021 | 19.10.2021 |
 | Final project | Topic of choice (needs approval) | Free to start | Presentation at last two slots |
