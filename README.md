@@ -13,7 +13,7 @@ Lecture | Title | Video | Slides |
 |Lecture 5 | Convergence I |[Link](https://youtu.be/MVJpUO9H5Y4) | [Link](./lectures/lec-5/RL2021-lec5-slides-ann.pdf) | 
 |Lecture 6 | Convergence II |[Link](https://youtu.be/_3nsQf_4JAQ ) | [Link](./lectures/lec-6/RL2021-lec6-slides-ann.pdf) | 
 |Lecture 7 | Deep RL |[Link](https://youtu.be/9MKfDKGsxUc ) | [Link](./lectures/lec-7/RL2021-lec7-slides-ann.pdf) | 
- |Lecture 7 | Predictive agents |[Link](https://youtu.be/qvONsJ2wg1Y ) | [Link](./lectures/lec-8/RL2021-lec8-slides-ann.pdf) | 
+|Lecture 8 | Predictive agents |[Link](https://youtu.be/qvONsJ2wg1Y ) | [Link](./lectures/lec-8/RL2021-lec8-slides-ann.pdf) | 
 
 ## Seminars 
 
