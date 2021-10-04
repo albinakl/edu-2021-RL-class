@@ -14,7 +14,7 @@ Lecture | Title | Video | Slides |
 |Lecture 6 | Convergence II |[Link](https://youtu.be/_3nsQf_4JAQ ) | [Link](./lectures/lec-6/RL2021-lec6-slides-ann.pdf) | 
 |Lecture 7 | Deep RL |[Link](https://youtu.be/9MKfDKGsxUc ) | [Link](./lectures/lec-7/RL2021-lec7-slides-ann.pdf) | 
 |Lecture 8 | Predictive agents |[Link](https://youtu.be/qvONsJ2wg1Y ) | [Link](./lectures/lec-8/RL2021-lec8-slides-ann.pdf) | 
-
+|Lecture 9 | Safety |[Link](https://youtu.be/hBWseQnLPgk ) | [Link](./lectures/lec-8/RL2021-lec8-slides-ann.pdf) | 
 ## Seminars 
 
 Seminar | Topic | Tasks | Materials | Video |
@@ -26,7 +26,7 @@ Seminar | Topic | Tasks | Materials | Video |
 | Seminar 5 | Convergence I | [Link](./seminars/sem-5/RL2021-sem5-tasks.PNG) | [Link](./seminars/sem-5) |[Link](https://youtu.be/bA8vHbqqzvc)| 
 | Seminar 6 | Convergence II | [Link](./seminars/sem-6/RL2021-sem6-tasks.jpg) |  | | |
 | Seminar 7 | Deep RL | [Link](./seminars/sem-7/RL2021-sem7-tasks.jpg) |  | | |
-
+| Seminar 8 | Predictive agents | [Link](./seminars/sem-8/RL2021-sem8-tasks.jpg) |  | | |
 ## Assignments
 
 Assignment | Description | Roll-out | Due | 
