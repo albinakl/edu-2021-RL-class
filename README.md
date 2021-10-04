@@ -13,6 +13,7 @@ Lecture | Title | Video | Slides |
 |Lecture 5 | Convergence I |[Link](https://youtu.be/MVJpUO9H5Y4) | [Link](./lectures/lec-5/RL2021-lec5-slides-ann.pdf) | 
 |Lecture 6 | Convergence II |[Link](https://youtu.be/_3nsQf_4JAQ ) | [Link](./lectures/lec-6/RL2021-lec6-slides-ann.pdf) | 
 |Lecture 7 | Deep RL |[Link](https://youtu.be/9MKfDKGsxUc ) | [Link](./lectures/lec-7/RL2021-lec7-slides-ann.pdf) | 
+|Lecture 8 | Predictive agents |[Link](https://youtu.be/qvONsJ2wg1Y ) | [Link](./lectures/lec-8/RL2021-lec8-slides-ann.pdf) | 
 
 ## Seminars 
 
@@ -20,7 +21,7 @@ Seminar | Topic | Tasks | Materials | Video |
 | ----- | ------ | ----- | ------ | ------ |
 | Seminar 1 | Basics, environments | [Link](./seminars/sem-1/RL2021-sem1-tasks.PNG) | [Link](./seminars/sem-1) |[Link](https://www.youtube.com/watch?v=wMuaTgpwYCc&ab_channel=AIindynamicaction) |
 | Seminar 2 | Dynamic programming | [Link](./seminars/sem-2/RL2021-sem2-tasks.jpg) | [Link](./seminars/sem-2)  |[Link](https://youtu.be/fPeKLsOCGbQ) |
-| Seminar 3 | Policy gradient | [Link](./seminars/sem-3/RL2021-sem3-tasks.PNG) |[Link](./seminars/sem-3)  |[Link](https://youtu.be/PB4cJo1FzXQ) |  
+| Seminar 3 | Policy gradient | [Link](./seminars/sem-3/RL2021-sem3-tasks.PNG) |[Link](./seminars/sem-3)  |[Link](https://youtu.be/huj5QIB6QiM) |  
 | Seminar 4 | Actor-critic | [Link](./seminars/sem-4/RL2021-sem4-tasks.PNG) | [Link](./seminars/sem-4)  |[Link](https://youtu.be/I2MaQn4bTFY)  |  
 | Seminar 5 | Convergence I | [Link](./seminars/sem-5/RL2021-sem5-tasks.PNG) | [Link](./seminars/sem-5) |[Link](https://youtu.be/bA8vHbqqzvc)| 
 | Seminar 6 | Convergence II | [Link](./seminars/sem-6/RL2021-sem6-tasks.jpg) |  | | |
