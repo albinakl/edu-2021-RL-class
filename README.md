@@ -25,8 +25,10 @@ Seminar | Topic | Tasks | Materials | Video |
 | Seminar 4 | Actor-critic | [Link](./seminars/sem-4/RL2021-sem4-tasks.PNG) | [Link](./seminars/sem-4)  |[Link](https://youtu.be/I2MaQn4bTFY)  |  
 | Seminar 5 | Convergence I | [Link](./seminars/sem-5/RL2021-sem5-tasks.PNG) | [Link](./seminars/sem-5) |[Link](https://youtu.be/bA8vHbqqzvc)| 
 | Seminar 6 | Convergence II | [Link](./seminars/sem-6/RL2021-sem6-tasks.jpg) |[Link](./seminars/sem-6) |[Link](https://youtu.be/YV021P1ugtQ)|
-| Seminar 7 | Deep RL | [Link](./seminars/sem-7/RL2021-sem7-tasks.jpg) |  | | |
-| Seminar 8 | Predictive agents | [Link](./seminars/sem-8/RL2021-sem8-tasks.jpg) |  | | |
+| Seminar 7 | Deep RL | [Link](./seminars/sem-7/RL2021-sem7-tasks.jpg) | [Link](./seminars/sem-7)|[Link](https://youtu.be/l7pvqQUSvNc)| 
+| Seminar 8 | Predictive agents | [Link](./seminars/sem-8/RL2021-sem8-tasks.jpg) | [Link](./seminars/sem-7) |[Link](https://youtu.be/_cxuQxl8HP8)| 
+| Seminar 9 | Safety | [Link](./seminars/sem-9) | [Link](./seminars/sem-9) |[Link](https://youtu.be/Cymfr4Nr3sk)| 
+
 ## Assignments
 
 Assignment | Description | Roll-out | Due | 
